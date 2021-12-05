@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Bunga bunga](https://www.ang.pl/img/slownik/funny.jpg)
